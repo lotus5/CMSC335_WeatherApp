@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.flexbox {
+    display: flex;
+    flex-direction: row;
+}
+
+#flexbox-search {
+    width: 100%;
+}
+
+#history {
+    border: 1px solid black;
+    width: 30%;
+}
